@@ -1,0 +1,7 @@
+Untuk latihannya Tolong buatkan sebuah perulangan menggunakan for
+
+Dengan catatan:
+
+-Ada aritmatika
+-Ada pengkondisian
+-Ada Input Output
